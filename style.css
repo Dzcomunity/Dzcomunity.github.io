@@ -154,7 +154,7 @@ body {
   width: 90%;
   height: 40px;
   background-color: #333;
-  position: fixed ;
+  position: inline-block ;
   z-index: 9999;
   left: 5%;
   top: 0px;
